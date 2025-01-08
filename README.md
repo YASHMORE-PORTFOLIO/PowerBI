@@ -1,5 +1,5 @@
-Design of a dynamic, interactive sales dashboard to analyze complex datasets of insights about Amazon-like performance of product categories, delivery performance, and regional sales trends using advanced visualizations and KPIs.
+Designed an interactive Sales Dashboard to perform the analysis of complex datasets on product categories, delivery performance, and regional sales trends by an Amazon-like firm for actionable insights with advanced visualizations and KPIs.
 
-Executed end-to-end data cleaning and transformation processes, ensuring that data was presented in high-quality and reliable output for impactful business intelligence reporting.
+Executed broad data cleaning and transformation processes, ensuring high quality and reliability of data that would be useful in business intelligence reporting.
 
-Utilized DAX functions to develop calculated measures and custom metrics that drive deeper analytical insights, enabling data-driven decision-making.
+Utilized DAX functions in the development of calculated measures and custom metrics that drive deep analytics insight, enabling data-driven decision-making.
